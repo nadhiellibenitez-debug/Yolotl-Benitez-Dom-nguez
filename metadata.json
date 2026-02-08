@@ -1,0 +1,5 @@
+{
+  "name": "RoadWeight Studio",
+  "description": "A retro-futuristic game engine and IDE for the RoadScript language, featuring a live interpreter and Gemini-powered code generation.",
+  "requestFramePermissions": []
+}
